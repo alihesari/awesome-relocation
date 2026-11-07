@@ -27,6 +27,7 @@ This list is about the move itself, not about visa rules. Every entry links to t
 - [EuroTechJobs](https://www.eurotechjobs.com) - Technology jobs across Europe, with a relocation package filter.
 - [GaijinPot Jobs](https://www.gaijinpot.com) - Jobs in Japan aimed at foreign residents and applicants from abroad.
 - [German Tech Jobs](https://www.germantechjobs.de) - Developer roles in Germany with salary ranges and a visa support filter.
+- [Jaabz](https://jaabz.com) - Tech jobs with filters for visa sponsorship, relocation packages, and remote work.
 - [Japan Dev](https://japan-dev.com) - Curated software jobs at Japanese companies that hire internationally.
 - [Landing.jobs](https://landing.jobs) - Tech jobs in Portugal and the rest of Europe, with relocation and remote filters.
 - [Make it in Germany Job Listings](https://www.make-it-in-germany.com/en/jobs/job-listings) - Federal government job search for skilled workers from outside the EU.
