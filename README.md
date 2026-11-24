@@ -24,6 +24,7 @@ This list is about the move itself, not about visa rules. Every entry links to t
 
 - [Arbeitnow](https://arbeitnow.com) - German job board with a filter for roles that offer visa sponsorship.
 - [EURES](https://europa.eu/eures/portal/jv-se/home) - European Commission job mobility portal covering the EU, Iceland, Liechtenstein, Norway and Switzerland.
+- [EuroJobs.ai](https://eurojobs.ai) - 28,000+ IT jobs across Europe aggregated hourly from 21,000 employer career pages (Greenhouse, Lever, Ashby, Workable and others). Has a first-class visa sponsorship filter alongside country, remote, and English-speaking-team filters.
 - [EuroTechJobs](https://www.eurotechjobs.com) - Technology jobs across Europe, with a relocation package filter.
 - [GaijinPot Jobs](https://www.gaijinpot.com) - Jobs in Japan aimed at foreign residents and applicants from abroad.
 - [German Tech Jobs](https://www.germantechjobs.de) - Developer roles in Germany with salary ranges and a visa support filter.
